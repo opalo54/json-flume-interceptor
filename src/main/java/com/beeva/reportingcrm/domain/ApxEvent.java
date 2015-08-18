@@ -11,7 +11,7 @@ public class ApxEvent {
 	private String EventDefinitionKey;
 
 	@JsonProperty("Data")
-	public Data getData() {
+	public Data getData() { 
 		return Data;
 	}
 

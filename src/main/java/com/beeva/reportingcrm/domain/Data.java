@@ -3,7 +3,7 @@ package com.beeva.reportingcrm.domain;
 import org.codehaus.jackson.annotate.JsonProperty;
 
 public class Data {
-	private String DES_DOMCOPRO;
+	private String DES_DOMCOPRO; 
 
 	private String UUID;
 
