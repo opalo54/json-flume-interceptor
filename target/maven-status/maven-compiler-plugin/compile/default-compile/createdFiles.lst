@@ -1,0 +1,4 @@
+com/beeva/reportingcrm/flume/source/interceptor/JsonInterceptor.class
+com/beeva/reportingcrm/domain/ApxEvent.class
+com/beeva/reportingcrm/utils/JsonToJava.class
+com/beeva/reportingcrm/domain/Data.class
